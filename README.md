@@ -28,7 +28,8 @@ A test framework that utilizes Java Spring Boot capabilities to integrate key Se
 
 # Test Framework Design Details
 
-![Flowchart (7)](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/867a853a-aa35-4d1f-89e4-df3d29a244d3)
+![Flowchart (7)](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/88df5d16-199f-426b-b6c4-24bfebd602e8)
+
 
 # Test Execution Flow
 
@@ -67,8 +68,7 @@ A test framework that utilizes Java Spring Boot capabilities to integrate key Se
 33.	System/Application properties can be manually updated in the **application.properties file** or overridden in the maven command
 
 # Folder Structure
-
-![Untitled (1)](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/8362fd79-e8fc-4dbb-8e88-23e31c5be2db)
+![Untitled (1)](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/1eec2719-5e99-45d2-bf18-062e58cafbb0)
 
 
 # Installation
@@ -107,9 +107,9 @@ allure serve -h localhost
 ```
 
 **Sample Report**
-![Screenshot 2023-11-14 141707](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/0f304aac-26f8-4741-b1b2-035243bedc51)
+![Flowchart (5)](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/35adcb9e-b19d-425e-95e4-ca5490e482dc)
 
-![Screenshot 2023-11-14 142205_failed](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/24aea69b-0b48-4351-81d7-b80ef7d11035)
+![Flowchart (6)](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/8017b4d8-15ee-47bd-b691-ee3639d70d68)
 
 # Creating new tests
 
