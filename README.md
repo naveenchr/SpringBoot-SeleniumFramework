@@ -107,9 +107,10 @@ allure serve -h localhost
 ```
 
 **Sample Report**
-![Flowchart (5)](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/35adcb9e-b19d-425e-95e4-ca5490e482dc)
 
-![Flowchart (6)](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/8017b4d8-15ee-47bd-b691-ee3639d70d68)
+![Screenshot 2023-11-14 141707](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/8348fe6d-e21e-4c7f-817b-86f432c8ab92)
+
+![Screenshot 2023-11-14 142205_failed](https://github.com/naveenchr/SpringBoot-SeleniumFramework/assets/11471191/46217fd8-e005-440d-9a03-3a2af314b783)
 
 # Creating new tests
 
