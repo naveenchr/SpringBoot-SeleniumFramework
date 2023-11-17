@@ -75,7 +75,7 @@ A test framework that utilizes Java Spring Boot capabilities to integrate key Se
 
 Clone the repo from GitHub using below command
 ```git
-git clone https://github.com/naveenchr/AutoFrameWork.git
+git clone https://github.com/naveenchr/SpringBoot-SeleniumFramework.git
 ```
 Clean and compile the maven project using below commands
 
