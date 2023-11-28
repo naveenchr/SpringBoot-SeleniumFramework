@@ -21,4 +21,16 @@ public final class Constants {
 	public static final String RADIOBUTTON_PAGE = "radio-button";
 	public static final String WEBTABLES_PAGE = "webtables";
 
+	/* API Details */
+
+	public static final String API_PORT = "8081";
+	public static final String API_HOST = "localhost";
+	public static final String API_BASE_URI = "http://" + API_HOST + ":" + API_PORT;
+
+	public static final String TESTDATA_URI = API_BASE_URI + "/testuserdata";
+	
+	/* Rest Assured Helper */
+
+	public static final String CONTENT_TYPE = "Content-Type";
+	public static final String APPLICATION_JSON = "application/json";
 }

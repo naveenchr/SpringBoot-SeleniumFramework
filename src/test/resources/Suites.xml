@@ -3,6 +3,6 @@
 <suite name="Suite">
 	<suite-files>
 		<suite-file path="Element-Tests.xml" />
-		<!-- <suite-file path="login-suite.xml" /> -->
+		<suite-file path="API-Tests.xml" />
 	</suite-files>
 </suite> <!-- Suite -->
