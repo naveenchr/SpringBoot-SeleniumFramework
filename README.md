@@ -4,8 +4,9 @@ A test framework that utilizes Java Spring Boot capabilities to integrate key Se
 
 **Key Features**
 
+* Spins up local API for Random Test Data supply using SpringBoot Web
+* Integration with RestAssured for API validations
 * Supports Parallel test execution and thread management
-* Random test data generation
 * Spring dependency injection for object creation
 * WebDriver manager-based browser initiation
 * Platform independent
